@@ -1,0 +1,19 @@
+				body{
+							background-color: #778899;
+				    }
+
+				li{
+							background-color: #fffff0;
+							border-radius: 8px;
+				  }
+
+				h1{
+						text-align: center;
+						font-size: 75px;
+						font-family: inherit;
+				  }
+
+				footer{
+							display: block;
+							font-style: italic;
+					  }
